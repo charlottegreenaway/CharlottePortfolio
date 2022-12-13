@@ -1,0 +1,112 @@
+body {
+  background-color: lightyellow;
+  
+}
+
+h1 {
+  color: black;
+  text-decoration: underline;
+  font-size: 50px;
+  text-align: center;
+}
+
+h2{
+	color: grey;
+	font-size: 20px;
+	margin-left: 50px;
+	
+	
+}
+h3{
+	color: navy;
+	font-size: 28px;
+	margin-left: 60px;
+	text-decoration: underline;
+	
+	
+}
+
+footer{
+	background-color: lightblue;
+}
+
+table, th, td{
+	border: 1px solid black;
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h4{
+	color: red;
+	
+}
+
+table, th{
+	background-color: #e1f2f2;
+}
+table, td{
+	background-color: #f7fafa;
+}
+
+
+header {
+	background-image: url("headerbg.png");
+	background-color: #cccccc;
+	background-size: cover;
+}
+
+
+h5{
+	font-size: 25px;
+}
+
+
+div {
+  background-color: white;
+  border: 3px solid blue;
+  padding: 50px;
+  margin: 20px;
+}
+#aboutme{
+
+	border: 3px solid green;
+}
+#skills{
+	border: 3px solid yellow;
+}
+
+
+#navbar{
+		ol {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+	}
+
+	li {
+	float: left;
+	}
+
+	li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	}
+
+	li a:hover {
+	background-color: #111;
+	}
+}
+.dark-mode {
+  background-color: black;
+}
+table, th a:hover {
+  background-color: #1338bf;
+}
